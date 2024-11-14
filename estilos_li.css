@@ -39,7 +39,7 @@ header nav ul li a{
 }
 header nav ul li a:hover{
     background-color: rgb(127, 127, 127);
-    cursor: url("Imagenes/Iconos/1.png"),auto;
+    cursor: url("imagenes/Iconos/1.png"),auto;
 }
 #Libros{
     background-color: rgb(124, 233, 255);
